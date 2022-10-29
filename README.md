@@ -13,8 +13,7 @@ Make sure that `~/.config/nvim` doesn't exist ( remove it or clone this reposito
   git clone https://github.com/edenac/nvim-lua ~/repos/nvim
   ```
 
-### For this next steps
-Make sure to remove, move or change the name of your current `nvim` directory
+### For this next steps Make sure to remove, move or change the name of your current `nvim` directory
 
 **IMPORTANT** Requires [Neovim v0.8.0](https://github.com/neovim/neovim/releases). Please [upgrade](#upgrade-to-latest-release) if you're on an earlier version. 
 ```
