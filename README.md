@@ -1,6 +1,13 @@
 # My nvim-lua config
 Make sure that `~/.config/nvim` doesn't exist ( remove it or clone this repository in other directory to pick your desired config)
 
+</br>
+
+### Overview
+![nvim-overview](nvim-lua.png)
+
+</br>
+
 ### If you want it remove ~/.config/nvim
 
   ```
