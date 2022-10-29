@@ -1,5 +1,4 @@
 # My nvim-lua config
-Make sure that `~/.config/nvim` doesn't exist ( remove it or clone this repository in other directory to pick your desired config)
 
 </br>
 
@@ -7,6 +6,8 @@ Make sure that `~/.config/nvim` doesn't exist ( remove it or clone this reposito
 ![nvim-overview](nvim-lua.png)
 
 </br>
+
+Make sure that `~/.config/nvim` doesn't exist ( remove it or clone this repository in other directory to pick your desired config)
 
 ### If you want it remove ~/.config/nvim
 
